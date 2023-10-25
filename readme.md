@@ -7,9 +7,10 @@
 * Aprenda a administrar os usuários e grupos do sistema.
 
 URL do curso -> [Linux Onboarding - Usando a CLI de uma Forma Rápida e Prática](https://cursos.alura.com.br/course/linux-onboarding-utilizar-cli-forma-rapida-pratica)
+
 ![Linux Onboarding - Usando a CLI de uma Forma Rápida e Prática](https://www.alura.com.br/assets/api/share/curso-linux-onboarding-utilizar-cli-forma-rapida-pratica.png)
 
-## :computer: Linguagens Usadas
+## :computer: Tecnologias Usadas
 <div>
     <img alt='LANGUAGE Logo' height='60' width='50' src='https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/linux-tux.svg' />&nbsp;
 </div>
@@ -28,6 +29,26 @@ URL do curso -> [Linux Onboarding - Usando a CLI de uma Forma Rápida e Prática
 * Comando *apt*.
 * Limitações do **WSL**.
 
+## 02 - Navegando no Sistema
+
+### 01 - PWD e LS
+* Significado do `$`.
+* Verificar diretório atual com `pwd`.
+* Mostrar arquivos locais com `ls`.
+* Obter ajuda com `--help`.
+* Manual de comandos com `man`.
+
+### 02 - Hierarquia no Filesystem - FHS
+* Limpar a tela com o atalho com ***CTRL* + *L*** ou com `clear`.
+* Navegar entre os diretórios com `cd`.
+* Path completo e diretório do usuário.
+
+### 03 -Atalhos para Navegação
+* Acessar o histórico de comandos.
+* Voltar para a pasta anterior com `cd -`.
+* Auto-completar um comando com *TAB*.
+* Diferença entre `.` e `..`
+* Comando `cd ~`.
 
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
