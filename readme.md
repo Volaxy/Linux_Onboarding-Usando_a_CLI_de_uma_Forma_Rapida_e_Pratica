@@ -50,5 +50,20 @@ URL do curso -> [Linux Onboarding - Usando a CLI de uma Forma Rápida e Prática
 * Diferença entre `.` e `..`
 * Comando `cd ~`.
 
+## 03 - Arquivos e Diretórios
+
+### 01 - Criando Diretórios
+* Criar uma pasta com `mkdir`.
+* Criar arquivos com `touch`.
+
+### 02 - Removendo Diretórios e Arquivos
+* Apagar um diretório com `rmdir`.
+* Apagar um arquivo com `rm`.
+
+### 03 - Copiando e Movendo Arquivos
+* Copiar com `cp`.
+* Mover com `mv`.
+* Ler o histórico de comando com `history`.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
