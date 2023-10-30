@@ -65,5 +65,10 @@ URL do curso -> [Linux Onboarding - Usando a CLI de uma Forma Rápida e Prática
 * Mover com `mv`.
 * Ler o histórico de comando com `history`.
 
+## 04 - Manipulando Arquivos e Diretórios
+
+### 01 - Globbing
+* Caracter `*` e `?`.
+
 ## :black_nib: Licença
 [Unlicense](https://unlicense.org)
